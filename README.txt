@@ -1,0 +1,2 @@
+Hey everyone Neel here. I fork this repo and did this project in my system this was a project of developing a application on EC2 and making it available. I didnt created this project i just clone it in my repo tryed this project by myself.
+for anybody who is willing to do this project the only problem i faced was download npm, which was not download. So what i did was i downloaded nodejs then i didnt need to download npm it came with nodejs.
